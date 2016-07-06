@@ -1,6 +1,6 @@
 # Hopscotch Theme for Terminal.app
 
-![Hopscotch terminal theme screenshot](http://joeleisner.com/github/screenshots/hopscotch-terminal/screenshot-retina.png)
+![Hopscotch terminal theme screenshot](http://joeleisner.com/github/screenshots/hopscotch-terminal/screenshot-retina-v2.png)
 
 This is my personal Terminal.app profile (color scheme) for OS X based on the [Hopscotch syntax theme for Atom](https://github.com/idleberg/atom-hopscotch) by [@idleberg](https://github.com/idleberg). From my understanding, a theme set-up exactly like this doesn't exist, so it's come together over time and now it's available here!
 
